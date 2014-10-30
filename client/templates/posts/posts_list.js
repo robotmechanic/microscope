@@ -1,7 +1,7 @@
 var postsData = [
   {
-    title: 'Introducing Telescope',
-    url: 'http://sachagreif.com/introducing-telescope/'
+    title: 'Galactic Battalion',
+    url: 'http://www.galacticbattalion.com'
   }, 
   {
     title: 'Meteor',
